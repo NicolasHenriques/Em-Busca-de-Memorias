@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":4,"characterName":"Memorias","classId":1,"equips":[1,1,2,3,0],"faceIndex":1,"faceName":"Memorias","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tiago","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":2,"characterName":"Memorias","classId":2,"equips":[2,1,2,3,0],"faceIndex":5,"faceName":"Memorias","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lorena","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"Memorias","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Memorias","traits":[],"initialLevel":1,"maxLevel":99,"name":"Luis","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":5,"characterName":"Memorias","classId":4,"equips":[4,0,2,3,4],"faceIndex":4,"faceName":"Memorias","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alice","nickname":"","note":"","profile":""}
+]
