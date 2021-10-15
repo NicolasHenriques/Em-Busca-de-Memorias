@@ -4,5 +4,6 @@ null,
 {"id":2,"expanded":true,"name":"Cidade Normal","order":2,"parentId":0,"scrollX":816,"scrollY":1456},
 {"id":3,"expanded":false,"name":"Cidade de Mineração","order":3,"parentId":0,"scrollX":816,"scrollY":1536},
 null,
-{"id":5,"expanded":false,"name":"Pousada 1º Andar","order":4,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":5,"expanded":false,"name":"Pousada 1º Andar","order":4,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"Cenário Hospital","order":5,"parentId":0,"scrollX":1962,"scrollY":962.4}
 ]
