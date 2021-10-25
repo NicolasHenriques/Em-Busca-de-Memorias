@@ -1,11 +1,11 @@
 [
 null,
 {"id":1,"expanded":false,"name":"Field Map","order":1,"parentId":0,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
-{"id":2,"expanded":true,"name":"Cidade Normal","order":2,"parentId":0,"scrollX":1165.0909090909092,"scrollY":1254.5454545454545},
-{"id":3,"expanded":false,"name":"Cidade de Mineração","order":3,"parentId":0,"scrollX":1165.0909090909092,"scrollY":1464},
-{"id":4,"expanded":true,"name":"Hospital - 1° andar","order":5,"parentId":0,"scrollX":1888,"scrollY":792},
-{"id":5,"expanded":false,"name":"Pousada 1º Andar","order":4,"parentId":0,"scrollX":534,"scrollY":553},
-{"id":6,"expanded":true,"name":"Parque","order":6,"parentId":4,"scrollX":906,"scrollY":416},
-{"id":7,"expanded":true,"name":"Cenário Hospital - erro","order":8,"parentId":0,"scrollX":712,"scrollY":1749.3333333333333},
-{"id":8,"expanded":false,"name":"Elevador ","order":7,"parentId":4,"scrollX":1445.3333333333333,"scrollY":813.3333333333334}
+{"id":2,"expanded":true,"name":"Cidade Normal","order":2,"parentId":0,"scrollX":1390.2857142857142,"scrollY":894.8571428571428},
+{"id":3,"expanded":false,"name":"Cidade de Mineração","order":3,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1361.142857142857},
+{"id":4,"expanded":true,"name":"Hospital - 1° andar","order":5,"parentId":0,"scrollX":648.8,"scrollY":721.6},
+{"id":5,"expanded":false,"name":"Pousada 1º Andar","order":4,"parentId":0,"scrollX":1404,"scrollY":798.8571428571428},
+{"id":6,"expanded":true,"name":"Parque","order":6,"parentId":4,"scrollX":1404,"scrollY":798.8571428571428},
+{"id":7,"expanded":true,"name":"Cenário Hospital - erro","order":8,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1237.7142857142856},
+{"id":8,"expanded":false,"name":"Elevador ","order":7,"parentId":4,"scrollX":1404,"scrollY":798.8571428571428}
 ]
