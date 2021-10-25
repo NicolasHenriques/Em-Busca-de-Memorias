@@ -7,5 +7,8 @@ null,
 {"id":5,"expanded":false,"name":"Pousada 1º Andar","order":4,"parentId":0,"scrollX":1404,"scrollY":798.8571428571428},
 {"id":6,"expanded":true,"name":"Parque","order":6,"parentId":4,"scrollX":1404,"scrollY":798.8571428571428},
 {"id":7,"expanded":true,"name":"Cenário Hospital - erro","order":8,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1237.7142857142856},
-{"id":8,"expanded":false,"name":"Elevador ","order":7,"parentId":4,"scrollX":1404,"scrollY":798.8571428571428}
+{"id":8,"expanded":false,"name":"Elevador ","order":7,"parentId":4,"scrollX":1404,"scrollY":798.8571428571428},
+{"id":9,"expanded":false,"name":"Casa do Tiago - seg. andar","order":2,"parentId":2,"scrollX":980,"scrollY":412},
+{"id":10,"expanded":true,"name":"Casa do Tiago","order":1,"parentId":0,"scrollX":1097,"scrollY":709},
+{"id":11,"expanded":false,"name":"Casa do Luís","order":3,"parentId":0,"scrollX":670.6666666666666,"scrollY":422.6666666666667}
 ]
