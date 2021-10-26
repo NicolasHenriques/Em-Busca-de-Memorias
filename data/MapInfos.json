@@ -3,12 +3,12 @@ null,
 null,
 {"id":2,"expanded":true,"name":"Cidade Teste","order":1,"parentId":0,"scrollX":1165.5,"scrollY":601.5},
 null,
-{"id":4,"expanded":false,"name":"Hospital - 1° andar","order":3,"parentId":0,"scrollX":754.5,"scrollY":475.5},
+{"id":4,"expanded":true,"name":"Hospital - 1° andar","order":3,"parentId":0,"scrollX":1424,"scrollY":792},
 {"id":5,"expanded":false,"name":"Pousada 1º Andar","order":2,"parentId":0,"scrollX":766.5,"scrollY":487.5},
-{"id":6,"expanded":true,"name":"Parque","order":4,"parentId":4,"scrollX":766.5,"scrollY":487.5},
-{"id":7,"expanded":true,"name":"Cenário Hospital - erro","order":6,"parentId":0,"scrollX":754.5,"scrollY":1054.5},
+{"id":6,"expanded":true,"name":"Parque","order":4,"parentId":4,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
+{"id":7,"expanded":true,"name":"Cenário Hospital - erro","order":6,"parentId":0,"scrollX":1424,"scrollY":1368},
 {"id":8,"expanded":false,"name":"Elevador ","order":5,"parentId":4,"scrollX":766.5,"scrollY":487.5},
 {"id":9,"expanded":false,"name":"Casa do Tiago - seg. andar","order":8,"parentId":10,"scrollX":754.5,"scrollY":724.5},
-{"id":10,"expanded":true,"name":"Casa do Tiago","order":7,"parentId":0,"scrollX":1117.5,"scrollY":730.5},
-{"id":11,"expanded":false,"name":"Casa do Luís","order":9,"parentId":0,"scrollX":754.5,"scrollY":475.5}
+{"id":10,"expanded":false,"name":"Casa do Tiago","order":7,"parentId":0,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
+{"id":11,"expanded":false,"name":"Casa do Luís","order":9,"parentId":0,"scrollX":1445.3333333333333,"scrollY":813.3333333333334}
 ]
