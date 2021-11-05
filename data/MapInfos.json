@@ -1,5 +1,6 @@
 [
 null,
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 {"id":1,"expanded":true,"name":"Hospital - 1° andar","order":4,"parentId":0,"scrollX":1433.4545454545455,"scrollY":1658.1818181818182},
 {"id":2,"expanded":true,"name":"Cidade Teste","order":10,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1254.6666666666667},
@@ -22,9 +23,22 @@ null,
 {"id":6,"expanded":true,"name":"Parque","order":2,"parentId":4,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
 {"id":7,"expanded":true,"name":"Hospital - 2º andar","order":6,"parentId":0,"scrollX":2341.090909090909,"scrollY":1128},
 {"id":8,"expanded":false,"name":"Elevador ","order":3,"parentId":4,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
+=======
+{"id":1,"expanded":false,"name":"Hospital - 1° andar","order":4,"parentId":0,"scrollX":2482.6666666666665,"scrollY":1752},
+{"id":2,"expanded":true,"name":"Cidade Teste","order":11,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1254.6666666666667},
+{"id":3,"expanded":false,"name":"Hospital","order":5,"parentId":1,"scrollX":2452.7999999999997,"scrollY":1560},
+{"id":4,"expanded":true,"name":"Hospital - térreo","order":1,"parentId":0,"scrollX":1201.3333333333333,"scrollY":744},
+null,
+{"id":6,"expanded":true,"name":"Parque","order":2,"parentId":4,"scrollX":2229.818181818182,"scrollY":1418.1818181818182},
+{"id":7,"expanded":true,"name":"Hospital - 2º andar","order":6,"parentId":0,"scrollX":2341.090909090909,"scrollY":1128},
+{"id":8,"expanded":false,"name":"Elevador ","order":3,"parentId":4,"scrollX":2229.818181818182,"scrollY":1418.1818181818182},
+>>>>>>> parent of f96ca04 (Atualização som)
 {"id":9,"expanded":false,"name":"Casa do Tiago - seg. andar","order":10,"parentId":10,"scrollX":1182.5454545454545,"scrollY":648},
 {"id":10,"expanded":false,"name":"Casa do Tiago","order":9,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1106.6666666666667},
 {"id":11,"expanded":false,"name":"Casa do Luís","order":8,"parentId":0,"scrollX":1165.0909090909092,"scrollY":1014.5454545454546},
 {"id":12,"expanded":false,"name":"Hospital - 3º andar","order":7,"parentId":0,"scrollX":1215.2727272727273,"scrollY":1128}
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of f96ca04 (Atualização som)
 ]
