@@ -11,5 +11,5 @@ null,
 {"id":9,"expanded":false,"name":"Casa do Tiago - seg. andar","order":9,"parentId":10,"scrollX":1182.5454545454545,"scrollY":648},
 {"id":10,"expanded":true,"name":"Casa do Tiago","order":8,"parentId":0,"scrollX":1165.0909090909092,"scrollY":1062.5454545454545},
 {"id":11,"expanded":false,"name":"Casa do Luís","order":7,"parentId":0,"scrollX":1165.0909090909092,"scrollY":1014.5454545454546},
-{"id":12,"expanded":false,"name":"Hospital - 3º andar","order":6,"parentId":0,"scrollX":3056.4,"scrollY":639.6}
+{"id":12,"expanded":false,"name":"Hospital - 3º andar","order":6,"parentId":0,"scrollX":3046.7999999999997,"scrollY":630}
 ]
