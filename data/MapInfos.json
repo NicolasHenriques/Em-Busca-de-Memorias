@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Hospital - 1° andar","order":4,"parentId":0,"scrollX":915.4285714285713,"scrollY":1674.8571428571427},
+{"id":1,"expanded":true,"name":"Hospital - 1° andar","order":4,"parentId":0,"scrollX":907,"scrollY":1666.5},
 {"id":2,"expanded":true,"name":"Cidade Teste","order":10,"parentId":0,"scrollX":1165.0909090909092,"scrollY":1254.5454545454545},
 null,
-{"id":4,"expanded":true,"name":"Hospital - térreo","order":1,"parentId":0,"scrollX":971.9999999999999,"scrollY":930.8571428571428},
+{"id":4,"expanded":true,"name":"Hospital - térreo","order":1,"parentId":0,"scrollX":964,"scrollY":922.5},
 null,
 {"id":6,"expanded":true,"name":"Parque","order":2,"parentId":4,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
 {"id":7,"expanded":true,"name":"Hospital - 2º andar","order":5,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1165.3333333333333},
