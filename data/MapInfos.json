@@ -1,15 +1,15 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Hospital - 1° andar","order":4,"parentId":0,"scrollX":760.8,"scrollY":1669.1999999999998},
+{"id":1,"expanded":true,"name":"Hospital - 1° andar","order":4,"parentId":0,"scrollX":1536,"scrollY":1696.8},
 {"id":2,"expanded":true,"name":"Cidade Teste","order":10,"parentId":0,"scrollX":1165.2,"scrollY":1254},
 null,
-{"id":4,"expanded":true,"name":"Hospital - térreo","order":1,"parentId":0,"scrollX":1315.5,"scrollY":1041},
+{"id":4,"expanded":false,"name":"Hospital - térreo","order":1,"parentId":0,"scrollX":2601.6,"scrollY":1444.8},
 {"id":5,"expanded":false,"name":"Teste (não apagar)","order":11,"parentId":0,"scrollX":732,"scrollY":1361.3333333333333},
 {"id":6,"expanded":true,"name":"Parque","order":2,"parentId":4,"scrollX":728,"scrollY":516},
-{"id":7,"expanded":true,"name":"Hospital - 2º andar","order":5,"parentId":0,"scrollX":3112.7999999999997,"scrollY":1100.3999999999999},
+{"id":7,"expanded":true,"name":"Hospital - 2º andar","order":5,"parentId":0,"scrollX":2364,"scrollY":1072.8},
 {"id":8,"expanded":false,"name":"Elevador ","order":3,"parentId":4,"scrollX":459,"scrollY":312.5},
-{"id":9,"expanded":false,"name":"Casa do Tiago - seg. andar","order":9,"parentId":10,"scrollX":1182.5454545454545,"scrollY":648},
-{"id":10,"expanded":true,"name":"Casa do Tiago","order":8,"parentId":0,"scrollX":729.6,"scrollY":1046.3999999999999},
-{"id":11,"expanded":false,"name":"Casa do Luís","order":7,"parentId":0,"scrollX":1165.0909090909092,"scrollY":1014.5454545454546},
+{"id":9,"expanded":false,"name":"Casa do Tiago - seg. andar","order":9,"parentId":10,"scrollX":2365.090909090909,"scrollY":1313.4545454545455},
+{"id":10,"expanded":false,"name":"Casa do Tiago","order":8,"parentId":0,"scrollX":1281.6,"scrollY":1005.5999999999999},
+{"id":11,"expanded":false,"name":"Casa do Luís","order":7,"parentId":0,"scrollX":2365.090909090909,"scrollY":1313.4545454545455},
 {"id":12,"expanded":false,"name":"Hospital - 3º andar","order":6,"parentId":0,"scrollX":640.8,"scrollY":939.5999999999999}
 ]
