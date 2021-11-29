@@ -7,5 +7,5 @@ null,
 {"id":5,"battlerName":"","characterIndex":1,"characterName":"Adultos","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Adultos","traits":[],"initialLevel":1,"maxLevel":20,"name":"Tiagão","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"Adultos","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Adultos","traits":[],"initialLevel":1,"maxLevel":20,"name":"Luisão","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"","characterIndex":2,"characterName":"Adultos","classId":3,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Adultos","traits":[],"initialLevel":1,"maxLevel":20,"name":"Alicezona","nickname":"","note":"","profile":""},
-{"id":8,"battlerName":"","characterIndex":0,"characterName":"Memorias","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Luca","traits":[],"initialLevel":1,"maxLevel":20,"name":"Luca","nickname":"","note":"","profile":""}
+{"id":8,"battlerName":"","characterIndex":6,"characterName":"Memorias","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Luca","traits":[],"initialLevel":1,"maxLevel":20,"name":"Luca","nickname":"","note":"","profile":""}
 ]
