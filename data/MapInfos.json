@@ -1,15 +1,15 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Hospital - 1° andar","order":4,"parentId":0,"scrollX":2168,"scrollY":1204},
+{"id":1,"expanded":true,"name":"Hospital - 1° andar","order":4,"parentId":0,"scrollX":1233.3333333333333,"scrollY":1281.3333333333333},
 {"id":2,"expanded":true,"name":"Cidade Teste","order":10,"parentId":0,"scrollX":1109,"scrollY":453},
 null,
-{"id":4,"expanded":true,"name":"Hospital - térreo","order":1,"parentId":0,"scrollX":2168,"scrollY":1204},
+{"id":4,"expanded":true,"name":"Hospital - térreo","order":1,"parentId":0,"scrollX":2408,"scrollY":977.3333333333334},
 {"id":5,"expanded":false,"name":"Teste (não apagar)","order":11,"parentId":0,"scrollX":1208,"scrollY":917.3333333333334},
-{"id":6,"expanded":true,"name":"Parque","order":2,"parentId":4,"scrollX":819,"scrollY":461},
-{"id":7,"expanded":true,"name":"Hospital - 2º andar","order":5,"parentId":0,"scrollX":2168.4,"scrollY":1203.6},
-{"id":8,"expanded":false,"name":"Elevador ","order":3,"parentId":4,"scrollX":2168,"scrollY":1204},
-{"id":9,"expanded":false,"name":"Casa do Tiago - seg. andar","order":9,"parentId":10,"scrollX":963,"scrollY":640},
-{"id":10,"expanded":true,"name":"Casa do Tiago","order":8,"parentId":0,"scrollX":962.6666666666666,"scrollY":992},
-{"id":11,"expanded":false,"name":"Casa do Luís","order":7,"parentId":0,"scrollX":973.1999999999999,"scrollY":559.1999999999999},
-{"id":12,"expanded":false,"name":"Hospital - 3º andar","order":6,"parentId":0,"scrollX":2365.090909090909,"scrollY":1313.4545454545455}
+{"id":6,"expanded":true,"name":"Parque","order":2,"parentId":4,"scrollX":728,"scrollY":516},
+{"id":7,"expanded":true,"name":"Hospital - 2º andar","order":5,"parentId":0,"scrollX":1449.3333333333333,"scrollY":452},
+{"id":8,"expanded":false,"name":"Elevador ","order":3,"parentId":4,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":9,"expanded":false,"name":"Casa do Tiago - seg. andar","order":9,"parentId":10,"scrollX":952,"scrollY":804},
+{"id":10,"expanded":true,"name":"Casa do Tiago","order":8,"parentId":0,"scrollX":952,"scrollY":1332},
+{"id":11,"expanded":false,"name":"Casa do Luís","order":7,"parentId":0,"scrollX":992,"scrollY":640},
+{"id":12,"expanded":false,"name":"Hospital - 3º andar","order":6,"parentId":0,"scrollX":780,"scrollY":1162.6666666666667}
 ]
